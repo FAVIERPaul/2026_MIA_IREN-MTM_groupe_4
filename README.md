@@ -15,7 +15,7 @@ Ce dépôt doit permettre de :
 2. **Assurer la reproductibilité** (exécution du code, relecture des analyses, compréhension de la démarche).
 3. **Valider la partie “Partage du Code/Outil”** de l’évaluation finale.
 
----
+--- 
 
 ## Structure conseillée
 
@@ -77,3 +77,5 @@ Présentez en quelques lignes :
 - [ ] Le support de présentation est bien inclus.
 
 Bon travail !
+
+Test Anta
